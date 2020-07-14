@@ -9,7 +9,9 @@
  });
  
  apSwiper.prev(); //上一个
+ 
  apSwiper.prev(); //下一个
+ 
  apSwiper.go('数值'); //跳转
  
  function touchEndHandler(_old, _new, _direction){
