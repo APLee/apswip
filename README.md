@@ -12,7 +12,7 @@
  
  apSwiper.prev(); //上一个
  
- apSwiper.prev(); //下一个
+ apSwiper.next(); //下一个
  
  apSwiper.go('数值'); //跳转
  
